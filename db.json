@@ -1,0 +1,24 @@
+{
+    "users": [
+      { "id": 1, "name": "Mario Lucas", "email": "mario@email.com", "phone": "55999999999" },
+      { "id": 2, "name": "Laís Maria das Neves", "email": "lais@email.com", "phone": "55999999990" },
+      { "id": 3, "name": "Emanuelly Nina Ayla da Rocha", "email": "nina@email.com", "phone": "55999999991" },
+      { "id": 4, "name": "Sebastião Ruan Henrique Assunção", "email": "ruan@email.com", "phone": "55999999992" },
+      { "id": 5, "name": "MaLara Camila Isis Cardoso", "email": "isis@email.com", "phone": "55999999993" },
+      { "id": 6, "name": "André Ricardo Melo", "email": "andre@email.com", "phone": "55999999994" },
+      { "id": 7, "name": "Rodrigo Juan Campos", "email": "juan@email.com", "phone": "55999999995" },
+      { "id": 8, "name": "Rita Lara Sophie Pereira", "email": "rita@email.com", "phone": "55999999996" },
+      { "id": 9, "name": "Emilly Luiza Castro", "email": "luiza@email.com", "phone": "55999999997" },
+      { "id": 10, "name": "Cauê Osvaldo de Paula", "email": "paula@email.com", "phone": "55999999998" },
+      { "id": 11, "name": "Manuela Daiane da Mota", "email": "mota@email.com", "phone": "55999999945" },
+      { "id": 12, "name": "Miguel Marcos Vinicius Miguel Lima", "email": "lima@email.com", "phone": "55999999910" },
+      { "id": 13, "name": "Otávio Filipe Ferreira", "email": "fio@email.com", "phone": "55999999911" },
+      { "id": 14, "name": "Bernardo Pietro Thales Vieira", "email": "vieira@email.com", "phone": "55999999912" },
+      { "id": 15, "name": "Vitor Raul Lorenzo Figueiredos", "email": "raul@email.com", "phone": "55999999913" },
+      { "id": 16, "name": "Laís Gabriela Alessandra Drumond", "email": "drumond@email.com", "phone": "55999999914" },
+      { "id": 17, "name": "Maitê Natália Sabrina Galvão", "email": "sabrina@email.com", "phone": "55999999915" },
+      { "id": 18, "name": "Isaac Yago Luís Souza", "email": "souza@email.com", "phone": "55999999916" },
+      { "id": 19, "name": "Francisca Jaqueline Souza", "email": "jaque@email.com", "phone": "55999999917" },
+      { "id": 20, "name": "Murilo José Rezende", "email": "ze@email.com", "phone": "55999999918" }
+    ]
+  }
